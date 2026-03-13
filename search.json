@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "关于",
+    "section": "",
+    "text": "学号：2025303120004\n姓名：LingerYu\n\n\n\n\n我正在学习数据驱动的可重复性研究课程，当前重点练习：\n\n文学化编程\nQuarto 文档系统\nGitHub 协作\nGitHub Pages 发布\n\n\n\n\n本网站是课程作业要求创建的个人 Quarto 网站，包含首页和关于页，并将发布到 GitHub Pages。"
+  },
+  {
+    "objectID": "about.html#个人信息",
+    "href": "about.html#个人信息",
+    "title": "关于",
+    "section": "",
+    "text": "学号：2025303120004\n姓名：LingerYu"
+  },
+  {
+    "objectID": "about.html#我的学习背景",
+    "href": "about.html#我的学习背景",
+    "title": "关于",
+    "section": "",
+    "text": "我正在学习数据驱动的可重复性研究课程，当前重点练习：\n\n文学化编程\nQuarto 文档系统\nGitHub 协作\nGitHub Pages 发布"
+  },
+  {
+    "objectID": "about.html#本次作业说明",
+    "href": "about.html#本次作业说明",
+    "title": "关于",
+    "section": "",
+    "text": "本网站是课程作业要求创建的个人 Quarto 网站，包含首页和关于页，并将发布到 GitHub Pages。"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "首页",
+    "section": "",
+    "text": "你好，我是 LingerYu。\n这是我为《数据驱动的可重复性研究》课程创建的个人 Quarto 网站。\n\n\n\n学号：2025303120004\n姓名：LingerYu\n课程主题：Quarto 网站创建与发布\n\n\n\n\n本网站包含两个页面：\n\n首页\n关于页\n\n\n\n\n通过本次作业，我初步掌握了：\n\nQuarto 文档与网站的基本结构\nGitHub 仓库管理\nGitHub Pages 网站发布"
+  },
+  {
+    "objectID": "index.html#基本信息",
+    "href": "index.html#基本信息",
+    "title": "首页",
+    "section": "",
+    "text": "学号：2025303120004\n姓名：LingerYu\n课程主题：Quarto 网站创建与发布"
+  },
+  {
+    "objectID": "index.html#本网站内容",
+    "href": "index.html#本网站内容",
+    "title": "首页",
+    "section": "",
+    "text": "本网站包含两个页面：\n\n首页\n关于页"
+  },
+  {
+    "objectID": "index.html#学习收获",
+    "href": "index.html#学习收获",
+    "title": "首页",
+    "section": "",
+    "text": "通过本次作业，我初步掌握了：\n\nQuarto 文档与网站的基本结构\nGitHub 仓库管理\nGitHub Pages 网站发布"
+  }
+]
